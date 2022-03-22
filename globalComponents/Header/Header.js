@@ -18,8 +18,10 @@ const Header = () => {
           </div>
           <div>
             <ul className="flex space-x-8 text-lg md:hidden text-lightTertiary">
-              <li>About</li>
-              <li>
+              <li className="py-2 px-4 bg-blackPrimary rounded-md justify-center hover:py-3 hover:px-5 hover:bg-blackPrimary hover:rounded-md ">
+                About
+              </li>
+              <li className="py-2 px-4 bg-blackPrimary rounded-md hover:py-3 hover:px-5 hover:bg-blackPrimary hover:rounded-md">
                 <Link href="/contact">
                   <a>Contact</a>
                 </Link>

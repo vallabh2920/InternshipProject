@@ -103,9 +103,9 @@ const Footer = () => {
                 fill="#F9F7F7"
               />
             </svg>
-            <p>2021 All Rights Reserved</p>
+            <p>All Rights Reserved</p>
           </span>
-          <p>vedant@dailybla.com</p>
+          <p>example@gmail.com</p>
         </div>
       </div>
     </>
